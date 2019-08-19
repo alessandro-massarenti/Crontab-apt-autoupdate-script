@@ -1,11 +1,11 @@
 # Crontab autoupdate script 
 
-### info:
+### Info:
 The script can be very inefficent.
 
 As of now the development has been stopped, maybe in the future i'll continue it.
 
-### install:
+### Install:
 Edit crontab file using bash command:
 
 ```bash
